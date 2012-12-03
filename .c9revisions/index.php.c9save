@@ -13,3 +13,4 @@
 {"ts":1354527440047,"patch":[[{"diffs":[[0,"<?p"],[1,"hp"]],"start1":0,"start2":0,"length1":3,"length2":5}]],"length":5,"saved":false}
 {"ts":1354527447953,"patch":[[{"diffs":[[0,"<?php"],[1,"\n?>"]],"start1":0,"start2":0,"length1":5,"length2":8}]],"length":8,"saved":false}
 {"ts":1354527514354,"patch":[[{"diffs":[[0,"<?php"],[1,"\r\n// A simple web site in Cloud9 that runs through Apache\r\n// Press the 'Run' button on the top to start the web server,\r\n// then click the URL that is emitted to the Output tab of the console\r\n\r\necho 'Hello world from Cloud9!';\r\n\r"],[0,"\n?>"]],"start1":0,"start2":0,"length1":8,"length2":239}]],"length":239,"saved":false}
+{"ts":1354528079367,"patch":[[{"diffs":[[0,"llo "],[-1,"world"],[1,"heroku"],[0," fro"]],"start1":209,"start2":209,"length1":13,"length2":14}]],"length":240,"saved":false}
